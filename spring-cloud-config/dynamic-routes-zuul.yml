@@ -1,5 +1,5 @@
 ﻿zuul:
      routes:
            service-provider:
-                           path:/service/**
-                           serviceId: eureka-service
+                           path: /service/**
+                           serviceId: service1
